@@ -69,12 +69,12 @@
 
         <form wire:submit="saveUsers">
             <x-ui.select 
-                wire:model="assignedUserId"
+                wire:model="selectedUsers"
                 placeholder="Search for a user..."
                 searchable
                 async-search
                 async-url="/users"
-
+                multiple
                 async-paginated
                 value-key="id"
                 label-key="name"
