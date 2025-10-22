@@ -93,7 +93,7 @@
                 this.options = [];
                 this.nextPageUrl = null;
                 this.fetchOptions(val);
-            }, 300));
+            }, 500));
         },
 
         mapToOption(item) {

@@ -65,6 +65,12 @@
         },
         "brand": {
             "installationTime": 1760690295
+        },
+        "layout": {
+            "installationTime": 1761099601
+        },
+        "navbar": {
+            "installationTime": 1761100158
         }
     },
     "project_hash": "c3be621d-6b96-4893-93e0-792e02adb488"

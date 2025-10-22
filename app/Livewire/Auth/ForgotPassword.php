@@ -45,6 +45,6 @@ class ForgotPassword extends Component
         /** @var View $view */
         $view = view('livewire.auth.forgot-password');
 
-        return $view->layout('components.layouts.guest');
+        return $view->layout('components.layouts.auth');
     }
 }

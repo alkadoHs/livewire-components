@@ -5,15 +5,18 @@
         "button": [
             "badge",
             "navlist",
-            "sidebar"
+            "sidebar",
+            "navbar"
         ],
         "icon": [
             "badge",
             "navlist",
-            "sidebar"
+            "sidebar",
+            "navbar"
         ],
         "badge": [
-            "navlist"
+            "navlist",
+            "navbar"
         ],
         "navlist": [
             "sidebar"

@@ -40,7 +40,7 @@
                 data-slot="search-control"
                 placeholder="search..."
                 @class([
-                    'bg-transparent placeholder:text-neutral-500 dark:placeholder:text-neutral-400 dark:text-neutral-50 text-neutral-900 ',
+                    'bg-transparent py-1.5 placeholder:text-neutral-500 dark:placeholder:text-neutral-400 dark:text-neutral-50 text-neutral-900 ',
                     'ring-0 ring-offset-0 outline-none focus:ring-0 border-0',
                     'col-span-4 col-start-1 row-start-1',
                 ])
